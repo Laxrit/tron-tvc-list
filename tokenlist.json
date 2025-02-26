@@ -1,17 +1,12 @@
 {
-    "address": "TW63guytLiXrGU9KrVgduoHRXaubaUkn3T",
-    "symbol": "Huobi 2nd Space",
-    "name": "Huobi 2nd Space Club",
+    "address": "416e4b55a579506d575a4f5de5011c435e91beb927",
+    "name": "Tether USDT",
+    "symbol": "USDT",
+    "type": "TRC20",
     "decimals": 6,
-    "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/56020150-434a-46af-9eaa-fe1ed404c12b.gif",
-    "homepage": "https://www.huobi.com/",
-    "existingMarkets": [
-        {
-            "source": "ApeNFT",
-            "pairs": [
-                "Huobi 2nd Space/USDT",
-                "Huobi 2nd Space/TRX"
-            ]
-        }
-  ]
-}
+    "description": "USDT is the official stablecoin issued by Tether on the TRON network.",
+    "logoURI": "https://github.com/Laxrit/tron-tvc-list/blob/main/tokens/416e4b55a579506d575a4f5de5011c435e91beb927/logo.png",
+    "website": "https://tron.network/usdt",
+    "explorer": "https://tronscan.org/#/token20/416e4b55a579506d575a4f5de5011c435e91beb927",
+    "markets": [""]
+  }
